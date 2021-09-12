@@ -1,1 +1,2 @@
-# my-hero-game
+# Trex-ruuner
+press space to jump
